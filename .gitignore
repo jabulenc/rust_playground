@@ -1,2 +1,3 @@
 cargo_generated_hello/target
 *.lock
+**/target
